@@ -1,7 +1,7 @@
 {
 	"groups": [
 		{
-			"keys": "bg_jpg,egret_icon_png,description_json,NPC_jpg,NPC1_jpg",
+			"keys": "bg_jpg,egret_icon_png,description_json,NPC_jpg",
 			"name": "preload"
 		}
 	],
@@ -25,11 +25,6 @@
 			"name": "NPC_jpg",
 			"type": "image",
 			"url": "assets/NPC.jpg"
-		},
-		{
-			"name": "NPC1_jpg",
-			"type": "image",
-			"url": "assets/NPC1.jpg"
 		}
 	]
 }

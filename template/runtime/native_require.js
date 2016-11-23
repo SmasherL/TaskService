@@ -8,9 +8,14 @@ var game_file_list = [
 	"libs/modules/game/game.native.js",
 	"libs/modules/res/res.js",
 	"libs/modules/tween/tween.js",
+	"bin-debug/EventEmitter.js",
 	"bin-debug/LoadingUI.js",
 	"bin-debug/Main.js",
-	"bin-debug/TaskSystem.js",
+	"bin-debug/Observer.js",
+	"bin-debug/SceneService.js",
+	"bin-debug/Task.js",
+	"bin-debug/TaskCondition.js",
+	"bin-debug/TaskService.js",
 	//----auto game_file_list end----
 ];
 
